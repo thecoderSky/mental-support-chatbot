@@ -16,8 +16,7 @@ This chatbot focuses on delivering **empathetic and helpful responses** using a 
 
 - Python  
 - Ollama (Local LLM)  
-- Streamlit (User Interface)  
-- NLP Concepts  
+- Streamlit (User Interface)   
 
 ---
 
